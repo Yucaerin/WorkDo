@@ -5,7 +5,7 @@
 **Affected Feature**: Role & User Creation  
 **Tested Vulnerability**: Privilege Escalation via `role` ID Tampering  
 **CVE**: Not Assigned  
-**Severity**: Critical (Unauthenticated to Admin via Account Setup)  
+**Severity**: Critical (Authentication User to Admin via Account Setup)  
 **CWE ID**: CWE-269  
 **CWE Name**: Improper Privilege Management  
 **Patched**: ❌ Not Applicable  
